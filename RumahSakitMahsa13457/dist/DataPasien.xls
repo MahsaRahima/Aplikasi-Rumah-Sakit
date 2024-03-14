@@ -1,0 +1,7 @@
+Laporan Pasien Rawat Jalan
+	Id		Tanggal		Nama		Dokter		Biaya Dokter		Id Obat		Nama Obat		Harga Obat		Jumlah		Total	
+	R-004		2023-07-10		Rahima		Mahsa		150000.0		O-002		Spasminal		16000.0		3		198000.0	
+	R-005		2023-07-10		Rahima		Mahsa		150000.0		O-002		Spasminal		16000.0		3		198000.0	
+	R-002		2023-07-08		Rahima		Anton		150000.0		O-002		Spasminal		16000.0		3		198000.0	
+	R-003		2023-07-08		Rahima		Mahsa		150000.0		O-003		Insto		20000.0		2		190000.0	
+	R-001		2023-07-07		Mahsa		Anton		150000.0		O-001		New		2000.0		5		160000.0	
